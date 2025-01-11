@@ -1,7 +1,7 @@
-# C Programming Exam Exercises
+# C Programming Exercises
 
 This repository contains a collection of C programming exercises taken from my university exams. Each exercise is neatly organized within its dedicated folder, encompassing both the source code and pertinent documentation.
-The exercises are meticulously organized in chronological order based on their exam date, providing a structured approach for study and review sessions. These exercises cover a wide range of topics, including:
+The exercises are provided in chronological order based on their exam date, providing a structured approach for study and review sessions. These exercises cover a wide range of topics, including:
 
 - Matrix operations and arrays
 - Linked lists and linear data structures
@@ -21,4 +21,4 @@ g++ -o main main.c
 
 ## Notes
 
-I have personally completed all the exercises in this repository, so they might not be perfect or the most elegant solutions, but they all work! 😊 This collection reflects my journey through learning and improving my C programming skills, and I hope it can be a helpful resource for others as well.
+I have personally completed all the exercises in this repository, so they might not be perfect or the most elegant solutions, but they all work! 😊
