@@ -14,11 +14,11 @@ This compilation serves as a valuable resource for students aiming to strengthen
 Navigate to the exercise directory and use `g++` to compile the C file. For example:
 
 ```sh
-cd exam/"date"/"Exercise X"/
+cd src/"date"/"exercise X"/
 g++ -o main main.c
 ./main
 ```
 
-
 ---
+
 > I have personally completed all the exercises in this repository when I was learning C, so they might not be perfect or the most elegant solutions, but they all work! 😊
