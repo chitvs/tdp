@@ -14,10 +14,12 @@ This compilation serves as a valuable resource for students aiming to strengthen
 Navigate to the exercise directory and use `g++` to compile the C file. For example:
 
 ```sh
-cd src/"date"/"exercise X"/
+cd src/<year>/<month>/<day>/<session>/<eX>/
 g++ -o main main.c
 ./main
 ```
+
+> Note: If your folder structure does not include multiple sessions or days, you can skip those placeholders.
 
 ---
 
