@@ -20,7 +20,3 @@ g++ -o main main.c
 ```
 
 > Note: If your folder structure does not include multiple sessions or days, you can skip those placeholders.
-
----
-
-> I have personally completed all the exercises in this repository when I was learning C, so they might not be perfect or the most elegant solutions, but they all work! 😊
