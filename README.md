@@ -19,4 +19,4 @@ g++ -o main main.c
 ./main
 ```
 
-> Note: If your folder structure does not include multiple sessions or days, you can skip those placeholders.
+> If your folder structure does not include multiple sessions or days, you can skip those placeholders.
