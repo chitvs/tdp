@@ -18,5 +18,5 @@ cd src/<year>/<month>/<day>/<session>/<eX>/
 g++ -o main main.c
 ./main
 ```
-
+> [!NOTE]  
 > If your folder structure does not include multiple sessions or days, you can skip those placeholders.
